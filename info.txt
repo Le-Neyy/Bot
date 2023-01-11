@@ -1,0 +1,8 @@
+Cheval
+turn 90 -> 450ms
+turn 180 - 900ms
+
+a pied : 
+
+turn 90 -> 900ms
+turn 180 -> 1800ms
